@@ -1,0 +1,8 @@
+﻿End of Game 
+
+
+The user has no more available moves and all other players are done playing. The system provides the scores of each player with their relative positions. The system provides the user with a choice to play a new game or quit. The user decides to start a new game and the system then initiates a new game. 
+
+
+Alternative Flows :
+The user decides to quit. The system closes the game.
