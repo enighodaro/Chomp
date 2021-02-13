@@ -1,5 +1,4 @@
-#Chomp-game
-for comp 2005
+#Chomp-game for comp 2005
 
 An implementation of the chomp game
 
