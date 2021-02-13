@@ -1,6 +1,6 @@
 #Chomp-game for comp 2005
 
-An implementation of the chomp game
+An implementation of the chomp game using Java
 
 The Game of Chomp. Chomp is a game invented by the late mathematician and economist David Gale.
 
