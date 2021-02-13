@@ -1,6 +1,6 @@
-# game1
+#Chomp-game
 for comp 2005
-Chomp-game
+
 An implementation of the chomp game
 
 The Game of Chomp. Chomp is a game invented by the late mathematician and economist David Gale.
